@@ -1,0 +1,34 @@
+Welcome module: all
+Basic module:
+ - Packages, variables and functions:
+    # from Packages (1) to Basic types (11)
+ - Flow control statements:
+    # from For (1) to Forever (4)
+    # Exercice (8)
+    # Defer (12)
+    # Stacking Defer (13)
+ - More types:
+    # Struct Fields (3)
+    # Struct Litterals (5)
+    # from Arrays (6) to Slices are like references to arrays (8)
+    # Creating a slice with make (13)
+    # Slices of slices (14)
+    # Appending to a Slice (15)
+    # Range (16)
+    # Exercice Slices (18)
+    # Maps (19)
+
+Methods and Interfaces:
+    # Methods (1)
+    # Methods are functions (2)
+    # Pointer receivers (4)
+    # Interfaces (9)
+    # Exercice Stringers (18)
+    # Errors (19)
+    # Exercice Errors (20)
+    # Readers (21)
+    # Exercice Readers (22)
+    # Exercice rot13Readers (23)
+
+Concurrency:
+    # all
